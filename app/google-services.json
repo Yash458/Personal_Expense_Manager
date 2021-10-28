@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187363854637",
+    "firebase_url": "https://personal-expense-manager-9f891-default-rtdb.firebaseio.com",
+    "project_id": "personal-expense-manager-9f891",
+    "storage_bucket": "personal-expense-manager-9f891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187363854637:android:5a7c3193e37e0231352ba4",
+        "android_client_info": {
+          "package_name": "com.androidapp.personalexpensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187363854637-dshlomeet4lsbv1eps8m08d27qcep3lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidapp.personalexpensemanager",
+            "certificate_hash": "78f19b18eb1a505133a25076e7da3447c2822fe5"
+          }
+        },
+        {
+          "client_id": "187363854637-4a8v4s5meh8sj73er4lvu1qhelu8gdjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfpYbuIVQkb7iD9moB7gGlmJUbrtzfvnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187363854637-4a8v4s5meh8sj73er4lvu1qhelu8gdjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
